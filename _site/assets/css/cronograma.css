@@ -1,0 +1,53 @@
+@media (max-width: 768px) {
+    .col-md-2.event-info {
+        margin-bottom: 8px;
+    }
+
+    .col-md-7.event-info {
+        margin-top: 8px;
+    }
+}
+
+.event-row {
+    border-bottom: 1px solid #ddd;
+    padding: 12px 0;
+}
+
+.event-row:nth-of-type(even) {
+    background-color: white;
+}
+
+p.event-time,
+p.event-room,
+p.event-description,
+span.event-speakers-intro,
+span.event-speaker,
+span.event-speaker-institution,
+span.event-chairs-intro,
+span.event-chair,
+span.event-chair-institution,
+p.event-paper,
+p.event-paper-authors {
+    font-size: 0.8rem;
+    margin-bottom: 0;
+}
+
+p.event-paper-authors {
+    padding-bottom: 0.3rem;
+}
+
+p.event-time,
+span.event-speaker,
+span.event-chair,
+p.event-paper {
+    font-weight: bold;
+}
+
+a.event-title {
+    color: black;
+    text-decoration: none;
+}
+
+.event-section {
+    margin-bottom: 0.5rem;
+}

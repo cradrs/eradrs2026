@@ -1,0 +1,16 @@
+.tutorial {
+    padding: 12px 0;
+    border-bottom: 1px solid #ddd;
+}
+
+.author-photo {
+    max-width: 128px;
+    height: auto;
+    margin: 0 0 0.5rem 0;
+}
+
+.tutorial-date,
+.tutorial-pdf,
+.img-pdf {
+    margin-bottom: 0.5rem;
+}
