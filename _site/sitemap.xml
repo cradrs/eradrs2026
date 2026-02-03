@@ -64,6 +64,9 @@
 <loc>http://localhost:4000/eradrs2026/premiacoes.html</loc>
 </url>
 <url>
+<loc>http://localhost:4000/eradrs2026/programacao.html</loc>
+</url>
+<url>
 <loc>http://localhost:4000/eradrs2026/propostas_de_minicursos.html</loc>
 </url>
 <url>
@@ -71,6 +74,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/eradrs2026/turismo.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/eradrs2026/wepp.html</loc>
 </url>
 <url>
 <loc>http://localhost:4000/eradrs2026/whpc.html</loc>
