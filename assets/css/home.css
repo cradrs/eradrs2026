@@ -1,3 +1,7 @@
+.text-justify {
+    text-align: justify;
+}
+
 #light-card {
     margin-top: -3rem;
     border-radius: 40px 40px 0 0;
