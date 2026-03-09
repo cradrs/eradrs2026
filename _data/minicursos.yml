@@ -48,8 +48,9 @@ reprodutível, combinando os fundamentos consolidados de livros clássico de an�
   - id: MC5
     date: "Data/Horário — Lab"
     name: "Minicurso"
-    title: "A ser anunciado"
-    abstract: "A ser anunciado"
+    title: "Conceitos Básicos de Computação Acelerada com CUDA Python"
+    abstract: "Este workshop aborda as ferramentas e técnicas fundamentais para executar aplicações em Python aceleradas por GPU usando GPUs CUDA® e o compilador Numba. Ao final do workshop, você terá conhecimento das ferramentas e técnicas fundamentais para aplicações em Python aceleradas por
+GPU com CUDA e Numba."
     authors:
       - name: "Arthur Francisco Lorenzon"
         bio: "Doutor em Ciência da Computação pela Universidade Federal do Rio Grande do Sul (UFRGS), desde 2018. Atuou como pesquisador visitante em diversas instituições, incluindo Delft University of Technology, Barcelona Supercomputing Center e Oak Ridge National Laboratory. Sua tese de doutorado foi escolhida como a melhor tese na área de arquitetura de computadores e computação de alto desempenho no WSCAD-CTD, em 2018. Atualmente, integra o corpo docente do Instituto de Informática da UFRGS, orientando alunos de mestrado e doutorado no Programa de Pós-Graduação em Computação (PPGC). Desenvolve atividades de pesquisa na área de computação de alto desempenho, com foco no desenvolvimento de soluções para otimizar o uso dos recursos computacionais ao executar aplicações paralelas. Por fim, desde o começo de 2022, Lorenzon é Embaixador Universitário nível Platinum do Deep Learning Institute, da NVIDIA."
