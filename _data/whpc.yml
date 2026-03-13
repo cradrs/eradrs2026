@@ -4,7 +4,25 @@ sessions:
     date: "06/05 — Auditório"
     description: "O WHPC/ERAD-RS 2026 é um fórum regional onde mulheres atuantes na área de HPC e áreas afins compartilham seus desafios na jornada acadêmica e na carreira de computação. "
     speakers:
-      - name: "Márcia Pasin (Moderadora)"
+      - name: "Márcia Pasin"
         affil: "Universidade Federal de Santa Maria"
-        bio: 'Marcia Pasin é Professora da Universidade Federal de Santa Maria desde 2004, com interesse atual de pesquisa nas áreas de sistemas distribuídos e Internet das Coisas. É mestre e doutora em Ciência da Computação pela UFRGS e bacharel em Informática pela UFSM. Tem participado ativamente e colaborado com a organização das ERADs há mais de 10 anos, destacando a organização geral do evento de Gramado-RS (2015), bem como a coordenação de edições passadas do Fórum de IC.'
-        photo: "MarciaPasin.jpg"      
+        bio: "Marcia Pasin é Professora da Universidade Federal de Santa Maria desde 2004, com interesse atual de pesquisa nas áreas de sistemas distribuídos e Internet das Coisas. É mestre e doutora em Ciência da Computação pela UFRGS e bacharel em Informática pela UFSM. Tem participado ativamente e colaborado com a organização das ERADs há mais de 10 anos, destacando a organização geral do evento de Gramado-RS (2015), bem como a coordenação de edições passadas do Fórum de IC."
+        photo: "MarciaPasin.jpg"
+
+      - name: "Lisane Brisolara de Brisolara"
+        affil: "Universidade Federal de Pelotas"
+        bio: "Lisane Brisolara é graduada em Ciência da Computação pela Universidade Católica de Pelotas, mestre e doutora em Ciência da Computação pela Universidade Federal do Rio Grande do Sul (UFRGS). No exterior, esteve em Pós-doutorado na Universidade de York (Inglaterra, 2014/2015) e doutorado sanduíche no Laboratório TIMA (Grenoble, França, 2005/2006) e no mestrado fez estágio na Universidade de Darmstadt (Alemanha). Atualmente, é Professora Titular, do Centro de Desenvolvimento Tecnológico (CDTec) da Universidade Federal de Pelotas (UFPel), onde atua na Graduação (Ciência da Computação e Engenharia de Computação) e no Programa de Pós-graduação em Computação (Mestrado e Doutorado). No âmbito nacional, como vice-coordenadora da área de Engenharia de Sistemas Computacionais (CE-ESC) na Sociedade Brasileira de Computação. Atualmente, também lidera o grupo de pesquisa em Engenharia de Sistemas Ciberfísicos. Suas principais áreas de interesse em Pesquisa são: Sistemas Embarcados, Sistemas ciber-físicos, Redes de Sensores sem fio e Engenharia de Software. Em extensão, tem interesse na atração de mulheres para as áreas de STEM, especificamente área de computação e de Engenharia de Sistemas Computacionais. Atua no Programa de Extensão denominado Gurias da UFPel nas Ciências desde 2023."
+        photo: "LisaneBrisolara.jpg"
+
+      - name: "Alice Fonseca Finger"
+        affil: "Universidade Federal do Pampa"
+        bio: "Alice Finger é professora na Universidade Federal do Pampa - Campus Bagé. Bacharel em Ciência da Computação na Universidade Federal de Pelotas. Doutora em Ciência da Computação pelo Programa de Pós-Graduação em Computação da Universidade Federal de Pelotas, na área de Fundamentos da Computação. Com interesse nas áreas de matemática computacional, fundamentos da computação e informática na educação."
+        photo: "AliceFinger.jpg"
+
+    guests:
+                
+      - name: "Ana Veroneze Solórzano"
+        affil: "Northeastern University (USA)"
+        bio: "Ana cursa doutorado em Engenharia da Computação na Northeastern University, em Boston, no Departamento de Engenharia Elétrica e da Computação, sob a orientação do Prof. Devesh Tiwari. Estuda o impacto social da Computação de Alto Desempenho (HPC), abrangendo privacidade e compartilhamento de dados, bem como mecanismos de incentivo para economia de energia. Brasileira formada em Ciência da Computação (Bacharelado e Mestrado) pela UFSM/UFRGS, trabalhou com aprendizado profundo distribuído e computação paralela. Meu objetivo é utilizar minha experiência em programação, análise e visualização de desempenho e diversos sistemas de HPC para gerar um impacto positivo na sociedade."
+        photo: "AnaSolorzano.jpg"
+

@@ -1,0 +1,25 @@
+---
+layout: default
+title: "Painel"
+---
+
+<section id="light-card">
+    <div class="p-2 container col-sm-12 col-lg-8 text-justify">
+        <h2 class="p-4 text-center">Painel WHPC</h2>
+        <div class="col-lg-6 col-sm-12">
+            <h4>Coordenação Geral</h4>
+            <ul>
+                {% for nome in site.data.whpc.authors %}
+                  <li>       
+      			<img class="rounded-circle author-photo" src="img/{{ authors.photo }}" alt="{{ authors.name }}">
+                        <h5>{{ speaker.name }}</h5>
+                        <p class="lead author-bio"><i>{{ authors.affil }}</i></p>
+                        <p class="lead author-bio">{{ authors.bio }}</p>
+		  </li>
+
+     
+               {% endfor %}
+    	</div>
+     </div>
+</section>               
+

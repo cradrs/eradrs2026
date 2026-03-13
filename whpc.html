@@ -13,21 +13,35 @@ title: "WHPC"
                 <p class="lead">
                     <b>Descrição</b>: {{ session.description }}
                 </p>
+                <h4>Coordenadoras</h4>
+                {% for speaker in session.speakers %}
                 <div class="row">
-                    <h4>Painelistas</h4>
-                    {% for speaker in session.speakers %}
                     <div class="col-md tutorial-author">
                         {% if speaker.photo %}
                         <img class="rounded-circle author-photo" src="img/{{ speaker.photo }}" alt="{{ speaker.name }}">
                         {% endif %}
                         <h5>{{ speaker.name }}</h5>
                         <p class="lead author-bio"><i>{{ speaker.affil }}</i></p>
-                        <p class="lead author-bio">
-                            {{ speaker.bio }}
-                        </p>
+                        <p class="lead author-bio">{{ speaker.bio }}</p>
                     </div>
-                    {% endfor %}
                 </div>
+                {% endfor %}
+
+
+                <h4>Convidadas</h4>
+                {% for speaker in session.guests %}
+                <div class="row">
+                    <div class="col-md tutorial-author">
+                        {% if speaker.photo %}
+                        <img class="rounded-circle author-photo" src="img/{{ speaker.photo }}" alt="{{ speaker.name }}">
+                        {% endif %}
+                        <h5>{{ speaker.name }}</h5>
+                        <p class="lead author-bio"><i>{{ speaker.affil }}</i></p>
+                        <p class="lead author-bio">{{ speaker.bio }}</p>
+                    </div>
+                </div>
+                {% endfor %}
+
             </div>
             {% endfor %}
         </div>
