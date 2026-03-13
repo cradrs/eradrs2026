@@ -16,7 +16,7 @@ sessions:
 
       - name: "Alice Fonseca Finger"
         affil: "Universidade Federal do Pampa"
-        bio: "Alice Finger é professora na Universidade Federal do Pampa - Campus Bagé. Bacharel em Ciência da Computação na Universidade Federal de Pelotas. Doutora em Ciência da Computação pelo Programa de Pós-Graduação em Computação da Universidade Federal de Pelotas, na área de Fundamentos da Computação. Com interesse nas áreas de matemática computacional, fundamentos da computação e informática na educação."
+        bio: "Alice Finger é professora na Universidade Federal do Pampa - Campus Bagé. Bacharel em Ciência da Computação na Universidade Federal de Pelotas. Doutora em Ciência da Computação pelo Programa de Pós-Graduação em Computação da Universidade Federal de Pelotas, na área de Fundamentos da Computação. Com interesse nas áreas de matemática computacional, fundamentos da computação e informática na educação. Líder do grupo de pesquisa LabISE – Laboratory of Intelligent Software Engineering. Tutora no grupo  PET-Saúde/I&SD – Pampa Conectado, grupo Tecnologia II. Integrante dos projetos de extensão Gurias na Computação e Gurias Of Code. Coautora do e-book Mulheres na Computação: Histórias e Memórias."
         photo: "AliceFinger.jpg"
 
     guests:
