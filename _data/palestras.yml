@@ -1,7 +1,7 @@
 keynotes:
 
   - id: P1
-    date: "08/05 — 12h (Auditório)"
+    date: "06/05 — 16h (Auditório)"
     name: "Palestra Acadêmica"
     title: "Título em definição"
     abstract: "Desafios e oportunidades das pesquisas de soluções de HPC sustentáveis para a evolução da agropecuária."
@@ -11,6 +11,17 @@ keynotes:
       photo: "SilviaMassruha.jpeg"
 
   - id: P2
+    date: "06/05 — 16h (Auditório)"
+    name: "Palestra Acadêmica"
+    title: "Computação de Alto Desempenho: Estratégias Emergentes além de MPI, OpenMP e Pthreads"
+    abstract: "Embora o paralelismo de memória compartilhada e distribuída via MPI, OpenMP e Pthreads continue sendo a base do HPC, a complexidade das arquiteturas modernas e o volume massivo de dados exigem uma abordagem que vá além da simples execução de loops. Esta palestra explora estratégias emergentes de alto desempenho, demonstrando como a integração de microserviços elásticos, a compressão de dados em tempo real, o sharding de bancos de dados, a exploração de EdgeAI e a programabilidade de redes via OpenFlow podem transformar gargalos sistêmicos em vantagens competitivas. Ao desviar o foco da computação bruta para a orquestração inteligente de recursos e eficiência energética, discutiremos como o HPC contemporâneo está convergindo com tecnologias de nuvem e sistemas distribuídos modernos para redefinir o que significa, na prática, alcançar o máximo desempenho."
+    speaker:
+      name: "Rodrigo da Rosa Righi"
+      bio: "- Com mais de 10.000 citações segundo o Google Scholar, Rodrigo da Rosa Righi também se destaca por ser membro sênior da IEEE, membro sênior da ACM e bolsista de produtividade do CNPq a 9 anos. Também é coordenador do Programa de Pós-Graduação em Computação Aplicada (PPGCA) da Universidade do Vale do Rio dos Sinos (Unisinos), onde também atua como pesquisador e orientador de alunos de iniciação científica, TCC, mestrado e doutorado. Possui pós-doutorado, realizado no KAIST (Korea Advanced Institute of Science and Technology) - Coreia do Sul, com ênfase nas áreas de Internet of Things e Cloud Computing. O mestrado e o doutorado em Ciência da Computação foram feitos na Universidade Federal do Rio Grande do Sul (conclusões em 2005 e 2009, respectivamente). Em especial, o doutorado foi feito na modalidade sanduiche na Tecnische Universitaet Berlin, Alemanha. Rodrigo tem experiência na área de Ciência da Computação, mais particularmente nas subáreas que envolvem a computação paralela e distribuída. Atua nos seguintes temas: avaliação de desempenho, balanceamento de carga e adaptação da comunicação em ambientes distribuídos (Cluster, Grid, Edge, Fog e Cloud), computação na área da saúde e Internet of Things. O prof. Rodrigo também faz parte do Comitê de Assessoramento da FAPERGS no que tange a área da Computação, com gestão no período de 2017 a 2019 e recondução a partir de maio de 2022. Ainda, prof. Rodrigo possui experiência na coordenação e como integrante em projetos de pesquisa de cunho nacional e internacional, envolvendo empresas como Siemens, HT Micron Semicondutores, Samsung e DELL Computadores. Atua também na coordenação de projetos de apoio a eventos científicos suportados pela CAPES, CNPq e FAPERGS. Prof. Rodrigo é revisor de periódicos internacionais conceituados na área como IEEE Cloud Computing, Future Generation Computer Systems, IEEE Communications Magazine e ACM Transactions on Cyber-Physical Systems, bem como membro permanente do Comitê de Programa de conferencias como SBCUP, SBCAS, ERAD, WWW Internet, ERRC, WPERFORMANCE, SBAC-PAD, IHCI, ICCS e SSCAD. Por fim, Rodrigo é membro das seguintes instituições: IEEE (sênior), ACM (sênior), IADIS, INSTICC e SBC (Sociedade Brasileira de Computação)."
+      photo: "Rodrigo_Righi.jpg"
+  
+
+  - id: P3
     date: "07/05 — 17h (Auditório)"
     name: "Palestra Acadêmica"
     title: "Contribuições para a Convergência entre Computação de Alto Desempenho e Computação em Nuvem"
@@ -21,14 +32,4 @@ keynotes:
       photo: "MarcioCastro.jpeg"
 
 
-  - id: P3
-    date: "06/05 — 17h (Auditório)"
-    name: "Palestra Acadêmica"
-    title: "Computação de Alto Desempenho: Estratégias Emergentes além de MPI, OpenMP e Pthreads"
-    abstract: "Embora o paralelismo de memória compartilhada e distribuída via MPI, OpenMP e Pthreads continue sendo a base do HPC, a complexidade das arquiteturas modernas e o volume massivo de dados exigem uma abordagem que vá além da simples execução de loops. Esta palestra explora estratégias emergentes de alto desempenho, demonstrando como a integração de microserviços elásticos, a compressão de dados em tempo real, o sharding de bancos de dados, a exploração de EdgeAI e a programabilidade de redes via OpenFlow podem transformar gargalos sistêmicos em vantagens competitivas. Ao desviar o foco da computação bruta para a orquestração inteligente de recursos e eficiência energética, discutiremos como o HPC contemporâneo está convergindo com tecnologias de nuvem e sistemas distribuídos modernos para redefinir o que significa, na prática, alcançar o máximo desempenho."
-    speaker:
-      name: "Rodrigo da Rosa Righi"
-      bio: "- Com mais de 10.000 citações segundo o Google Scholar, Rodrigo da Rosa Righi também se destaca por ser membro sênior da IEEE, membro sênior da ACM e bolsista de produtividade do CNPq a 9 anos. Também é coordenador do Programa de Pós-Graduação em Computação Aplicada (PPGCA) da Universidade do Vale do Rio dos Sinos (Unisinos), onde também atua como pesquisador e orientador de alunos de iniciação científica, TCC, mestrado e doutorado. Possui pós-doutorado, realizado no KAIST (Korea Advanced Institute of Science and Technology) - Coreia do Sul, com ênfase nas áreas de Internet of Things e Cloud Computing. O mestrado e o doutorado em Ciência da Computação foram feitos na Universidade Federal do Rio Grande do Sul (conclusões em 2005 e 2009, respectivamente). Em especial, o doutorado foi feito na modalidade sanduiche na Tecnische Universitaet Berlin, Alemanha. Rodrigo tem experiência na área de Ciência da Computação, mais particularmente nas subáreas que envolvem a computação paralela e distribuída. Atua nos seguintes temas: avaliação de desempenho, balanceamento de carga e adaptação da comunicação em ambientes distribuídos (Cluster, Grid, Edge, Fog e Cloud), computação na área da saúde e Internet of Things. O prof. Rodrigo também faz parte do Comitê de Assessoramento da FAPERGS no que tange a área da Computação, com gestão no período de 2017 a 2019 e recondução a partir de maio de 2022. Ainda, prof. Rodrigo possui experiência na coordenação e como integrante em projetos de pesquisa de cunho nacional e internacional, envolvendo empresas como Siemens, HT Micron Semicondutores, Samsung e DELL Computadores. Atua também na coordenação de projetos de apoio a eventos científicos suportados pela CAPES, CNPq e FAPERGS. Prof. Rodrigo é revisor de periódicos internacionais conceituados na área como IEEE Cloud Computing, Future Generation Computer Systems, IEEE Communications Magazine e ACM Transactions on Cyber-Physical Systems, bem como membro permanente do Comitê de Programa de conferencias como SBCUP, SBCAS, ERAD, WWW Internet, ERRC, WPERFORMANCE, SBAC-PAD, IHCI, ICCS e SSCAD. Por fim, Rodrigo é membro das seguintes instituições: IEEE (sênior), ACM (sênior), IADIS, INSTICC e SBC (Sociedade Brasileira de Computação)."
-      photo: "Rodrigo_Righi.jpg"
-  
 
