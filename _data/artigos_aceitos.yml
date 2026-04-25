@@ -1,6 +1,6 @@
 ic-track:
   - id: "F1"
-    title: "Fórum IC/PG 1"
+    title: "Fórum IC/PG 1 - Programação Paralela"
     date: "06/05"
     start_time: "14:00"
     end_time: "15:30"
@@ -53,7 +53,7 @@ ic-track:
             institution: "UFPEL"
 
   - id: "F2"
-    title: "Fórum IC/PG 2"
+    title: "Fórum IC/PG 2 - Avaliação de Desempenho e Eficiência Energética"
     date: "06/05"
     start_time: "14:00"
     end_time: "15:30"
@@ -62,14 +62,14 @@ ic-track:
     room: "Sala 2311"
     papers:
       - title: "Quantifying System-Level Optimizations for Latency and Frame-Time Stability in Real-Time Workloads"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/20638.pdf"
         authors:
           - name: "Aldrei Rigoli"
             institution: "UNIJUI"
           - name: "Edson Luiz Padoin"
             institution: "UNIJUI"
       - title: "Comparação de Consumo de Energia entre CPU e GPU em Computadores de Uso Doméstico"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/20465.pdf"
         authors:
           - name: "Guilherme Salvati"
             institution: "UCS"
@@ -78,7 +78,7 @@ ic-track:
           - name: "Samuel Francisco Ferrigo"
             institution: "UCS"
       - title: "Desempenho e Consumo Energético em Arquiteturas de CPU Homogêneas e Híbridas Utilizando Benchmarks NAS"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/20410.pdf"
         authors:
           - name: "Yuri Theodoro da Silva"
             institution: "FURG"
@@ -87,7 +87,7 @@ ic-track:
           - name: "Vinicius Garcia Pinto"
             institution: "FURG"
       - title: "Avaliação de Runtimes de Alto Desempenho para Aplicações de Stream Processing"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21414.pdf"
         authors:
           - name: "Breno Cunha"
             institution: "PUCRS"
@@ -96,7 +96,7 @@ ic-track:
           - name: "Dalvan Griebler"
             institution: "PUCRS"
       - title: "Avaliação Experimental dos Trade-offs entre Precisão Numérica, Desempenho e Eficiência Energética em Inferência com TensorRT"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21456.pdf"
         authors:
           - name: "Murilo Salem"
             institution: "UFPEL"
@@ -110,7 +110,7 @@ ic-track:
             institution: "UFPEL"
                         
   - id: "F3"
-    title: "Fórum IC/PG 3"
+    title: "Fórum IC/PG 3 - Algoritmos, Escalonamento e Aplicações Paralelas"
     date: "07/05"
     start_time: "08:30"
     end_time: "10:00"
@@ -119,28 +119,28 @@ ic-track:
     room: "Auditório"
     papers:
       - title: "Desafios e Abordagens para Alocação Dinâmica de Recursos em Sistemas HPC com MPI"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21365.pdf"
         authors:
           - name: "Paulina Rehbein"
             institution: "PUCRS"
           - name: "Dalvan Griebler"
             institution: "PUCRS"
       - title: "How STF allows trivial overlap of I/O and computations on Forward RTM"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21467.pdf"
         authors:
           - name: "Pedro Henrique Boniatti Colle"
             institution: "UFRGS"
           - name: "Lucas Mello Schnorr"
             institution: "UFRGS"
       - title: "Auto-Adaptive Multi-Objective Scheduling for Academic HPC Grids: Simulation and Execution with OAR and SimGrid"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21294.pdf"
         authors:
           - name: "Xavier Sebastião"
             institution: "UFPEL - UZ, Mozambique"
           - name: "Gerson Geraldo H. Cavalheiro"
             institution: "UFPEL"
       - title: "Extensão da GSParLib para Suporte a GPUs NVIDIA, AMD e Intel"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21495.pdf"
         authors:
           - name: "Gabriell Alves de Araujo"
             institution: "PUCRS"
@@ -151,7 +151,7 @@ ic-track:
           - name: "Luiz Gustavo Leão Fernandes"
             institution: "PUCRS"
       - title: "Ambientes Práticos sob Demanda no Moodle com Contêineres: Evidências de Uso em Disciplinas Reais"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21251.pdf"
         authors:
           - name: "Deolinda Salomão"
             institution: "UFPEL"
@@ -165,7 +165,7 @@ ic-track:
             institution: "UFPEL"
 
   - id: "F4"
-    title: "Fórum IC/PG 4"
+    title: "Fórum IC/PG 4 - HPC + Computação em Nuvem + Redes"
     date: "07/05"
     start_time: "10:30"
     end_time: "12:00"
@@ -174,7 +174,7 @@ ic-track:
     room: "Auditório"
     papers:
       - title: "ViSPAC: Coleta e compressão adaptativas guiadas por risco em monitoramento em um ciclo Edge–Fog–Cloud"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21283.pdf"
         authors:
           - name: "Mateus Roveda"
             institution: "UNISINOS"
@@ -190,14 +190,14 @@ ic-track:
           - name: "Dalvan Griebler"
             institution: "PUCRS"
       - title: "Proposta de uma Arquitetura de Middleware para Elasticidade Vertical em Nuvem"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21488.pdf"
         authors:
           - name: "Gabriel Reis Panho"
             institution: "PUCRS"
           - name: "Dalvan Griebler"
             institution: "PUCRS"
       - title: "HERMES: Impacto de Algoritmos de Congestionamento no Processo de Certificação de Origem"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21361.pdf"
         authors:
           - name: "Kauã Hopfer"
             institution: "UDESC"
@@ -208,7 +208,7 @@ ic-track:
           - name: "Maurício Pillon"
             institution: "UDESC"
       - title: "Identificação de Starvation de aplicação no Apache Spark"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21368.pdf"
         authors:
           - name: "Enzo Belló Boscatto"
             institution: "UDESC - CCT"
@@ -218,7 +218,7 @@ ic-track:
             institution: "UDESC"
 
   - id: "F5"
-    title: "Fórum IC/PG 5"
+    title: "Fórum IC/PG 5 - Avaliação de Desempenho e Eficiência Energética"
     date: "07/05"
     start_time: "14:00"
     end_time: "15:30"
@@ -226,50 +226,58 @@ ic-track:
       name: "XXXX"
     room: "Sala 2308"
     papers:
-      - title: "Avaliação de Modelos de Linguagem de Grande Escala na Geração Automática de Código Paralelo OpenMP
-Julio Cesar Nogueira (UTFPR Campo Mourão, Brazil), Andre Luiz Kawamoto (UTFPR, Brazil), João Fabrício Filho (UTFPR Campo Mourão, Brazil), Rogério Aparecido Gonçalves (UTFPR, Brazil)"
-        pdf: "pdfs/.pdf"
+      - title: "Avaliação de Modelos de Linguagem de Grande Escala na Geração Automática de Código Paralelo OpenMP"
+        pdf: "pdfs/20521.pdf"
         authors:
-          - name: ""
-            institution: ""
-          - name: ""
-            institution: ""
-      - title: "Análise comparativa do impacto de ataques à memória persistente no desempenho de sistemas baseados em LLMs
-Charles Christian Miers <charles.miers@udesc.br> (UDESC, Brazil), Paulo Senna <paulo.senna@edu.udesc.br> (UDESC, Brazil) "
-        pdf: "pdfs/.pdf"
+          - name: "Julio Cesar Nogueira"
+            institution: "UTFPR"
+          - name: "Andre Luiz Kawamoto"
+            institution: "UTFPR"
+          - name: "João Fabrício Filho"
+            institution: "UTFPR"
+          - name: "Rogério Aparecido Gonçalves"
+            institution: "UTFPR"
+      - title: "Análise comparativa do impacto de ataques à memória persistente no desempenho de sistemas baseados em LLMs"
+        pdf: "pdfs/20430.pdf"
         authors:
-          - name: ""
-            institution: ""
-          - name: ""
-            institution: ""
-      - title: "Medições de Consumo de Energia em Arquiteturas HPC
-Otho José Sirtoli Marcondes (UFRGS, Brazil), Laura Soares (UFRGS, Brazil), Lucas Mello Schnorr (UFRGS, Brazil), Jeferson Campos Nobre (UFRGS, Brazil)"
-        pdf: "pdfs/.pdf"
+          - name: "Charles Christian Miers"
+            institution: "UDESC"
+          - name: "Paulo Senna"
+            institution: "UDESC"
+      - title: "Medições de Consumo de Energia em Arquiteturas HPC"
+        pdf: "pdfs/21486.pdf"
         authors:
-          - name: ""
-            institution: ""
-          - name: ""
-            institution: ""
-      - title: "Performance Evaluation of Distributed Deep Learning Training on Low-Bandwidth Networks
-Rayan Raddatz <rayan.raddatz@inf.ufrgs.br> (UFRGS, Brazil), Marcelo Cardoso Oliveira Gulart <mcogulart@inf.ufrgs.br> (UFRGS, Brazil), Kenichi Brumati <kbrumati@inf.ufrgs.br> (UFRGS, Brazil), Lucas Mello Schnorr <schnorr@inf.ufrgs.br> (UFRGS, Brazil) "
-        pdf: "pdfs/.pdf"
+          - name: "Otho José Sirtoli Marcondes"
+            institution: "UFRGS"
+          - name: "Laura Soares"
+            institution: "UFRGS"
+          - name: "Lucas Mello Schnorr"
+            institution: "UFRGS"
+          - name: "Jeferson Campos Nobre"
+            institution: "UFRGS"
+      - title: "Performance Evaluation of Distributed Deep Learning Training on Low-Bandwidth Networks"
+        pdf: "pdfs/20518.pdf"
         authors:
-          - name: ""
-            institution: ""
-          - name: ""
-            institution: ""
-      - title: "Análise Comparativa de Desempenho entre Lustre e GekkoFS em Cargas de Trabalho Intensivas de Metadados em HPC
-João Vitor Vargas Oliveira <jvvoliveira@inf.ufrgs.br> (UFRGS, Brazil), Cristiano Alex Künas <cakunas@inf.ufrgs.br> (UFRGS, Brazil), Philippe Olivier Alexandre Navaux <navaux@inf.ufrgs.br> (UFRGS, Brazil) "
-        pdf: "pdfs/.pdf"
+          - name: "Rayan Raddatz"
+            institution: "UFRGS"
+          - name: "Marcelo Cardoso Oliveira Gulart"
+            institution: "UFRGS"
+          - name: "Kenichi Brumati"
+            institution: "UFRGS"
+          - name: "Lucas Mello Schnorr"
+            institution: "UFRGS"
+      - title: "Análise Comparativa de Desempenho entre Lustre e GekkoFS em Cargas de Trabalho Intensivas de Metadados em HPC"
+        pdf: "pdfs/21476.pdf"
         authors:
-          - name: ""
-            institution: ""
-          - name: ""
-            institution: ""
-
+          - name: "João Vitor Vargas Oliveira"
+            institution: "UFRGS"
+          - name: "Cristiano Alex Künas"
+            institution: "UFRGS"
+          - name: "Philippe Olivier Alexandre Navaux"
+            institution: "UFRGS"
 
   - id: "F6"
-    title: "Fórum IC/PG 6"
+    title: "Fórum IC/PG 6 - Algoritmos, Escalonamento e Aplicações Paralelas"
     date: "07/05"
     start_time: "14:00"
     end_time: "15:30"
@@ -278,14 +286,14 @@ João Vitor Vargas Oliveira <jvvoliveira@inf.ufrgs.br> (UFRGS, Brazil), Cristian
     room: "Sala 2311"
     papers:
       - title: "A Proposal for a Simulation of PCAD Network Topology Using SimGrid"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21420.pdf"
         authors:
           - name: "Rayan Raddatz"
             institution: "UFRGS"
           - name: "Lucas Mello Schnorr"
             institution: "UFRGS"
       - title: "Acelerando a Modelagem Sísmica Fletcher em GPUs por meio do uso de Shared Memory"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21452.pdf"
         authors:
           - name: "Kenichi Brumati"
             institution: "UFRGS"
@@ -298,21 +306,21 @@ João Vitor Vargas Oliveira <jvvoliveira@inf.ufrgs.br> (UFRGS, Brazil), Cristian
           - name: "Arthur Francisco Lorenzon"
             institution: "UFRGS"
       - title: "Escalonando Workflows com Redes Convolucionais de Grafos"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21277.pdf"
         authors:
           - name: "Lucas Oliveira Macedo"
             institution: "UDESC"
           - name: "Guilherme Piêgas. Koslovski"
             institution: "UDESC"
       - title: "Proposta de Modelo de Custo para Paralelização de Estágios em Pipelines Lineares"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21480.pdf"
         authors:
           - name: "Guilherme Vasquez"
             institution: "PUCRS"
           - name: "Dalvan Griebler"
             institution: "PUCRS"
       - title: "Escalonando tarefas comunicantes em topologias DragonFly com Aprendizado por Reforço"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/20439.pdf"
         authors:
           - name: "Claudinei Cabral Junior"
             institution: "UDESC"
@@ -320,7 +328,7 @@ João Vitor Vargas Oliveira <jvvoliveira@inf.ufrgs.br> (UFRGS, Brazil), Cristian
             institution: "UDESC"
 
   - id: "F7"
-    title: "Fórum IC/PG 7"
+    title: "Fórum IC/PG 7 - Algoritmos, Escalonamento e Aplicações Paralelas"
     date: "07/05"
     start_time: "16:00"
     end_time: "17:30"
@@ -329,14 +337,14 @@ João Vitor Vargas Oliveira <jvvoliveira@inf.ufrgs.br> (UFRGS, Brazil), Cristian
     room: "Sala 2308"
     papers:
       - title: "Beyond the DAG: Visualizing Scheduling Bottlenecks in Task-Based Applications"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/20569.pdf"
         authors:
           - name: "Alisson Fumaco"
             institution: "UFRGS"
           - name: "Lucas Mello Schnorr"
             institution: "UFRGS"
       - title: "Efetividade vs. Custo Computacional: Uma proposta para análise de ataques de sufixo adversarial GCG e nanoGCG"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/20391.pdf"
         authors:
           - name: "Carlos Bunn"
             institution: "UDESC"
@@ -345,7 +353,7 @@ João Vitor Vargas Oliveira <jvvoliveira@inf.ufrgs.br> (UFRGS, Brazil), Cristian
           - name: "Charles Christian Miers"
             institution: "UDESC"
       - title: "Go como Orquestrador de Treinamento e Serving para Workloads Transformer"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21496.pdf"
         authors:
           - name: "Daniel Barretos"
             institution: "UFPEL"
@@ -358,7 +366,7 @@ João Vitor Vargas Oliveira <jvvoliveira@inf.ufrgs.br> (UFRGS, Brazil), Cristian
           - name: "Gerson Geraldo H. Cavalheiro"
             institution: "UFPEL"
       - title: "Rust como Engine para Transformers: FFI Estável, Benchmarks e Controle de Dispositivo"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21497.pdf"
         authors:
           - name: "Daniel Barretos"
             institution: "UFPEL"
@@ -371,7 +379,7 @@ João Vitor Vargas Oliveira <jvvoliveira@inf.ufrgs.br> (UFRGS, Brazil), Cristian
           - name: "Gerson Geraldo H. Cavalheiro"
             institution: "UFPEL"            
       - title: "Previsão da Frota Municipal de Veículos Elétricos no Brasil usando Machine Learning"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/20506.pdf"
         authors:
           - name: "Mariana Borges"
             institution: "UFSM"
@@ -385,7 +393,7 @@ João Vitor Vargas Oliveira <jvvoliveira@inf.ufrgs.br> (UFRGS, Brazil), Cristian
             institution: "UFSM"
 
   - id: "F8"
-    title: "Fórum IC/PG 8"
+    title: "Fórum IC/PG 8 - Algoritmos, Escalonamento e Aplicações Paralelas"
     date: "07/05"
     start_time: "16:00"
     end_time: "17:30"
@@ -394,21 +402,21 @@ João Vitor Vargas Oliveira <jvvoliveira@inf.ufrgs.br> (UFRGS, Brazil), Cristian
     room: "Sala 2311"
     papers:
       - title: "Traçando um paralelo entre C++ e Rust para programação multithread"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21448.pdf"
         authors:
           - name: "Freddy Ilha"
             institution: "UFPEL"
           - name: "Gerson Geraldo H. Cavalheiro"
             institution: "UFPEL"
       - title: "Esqueletos de Paralelismo Map e Reduce Customizáveis com PolyHok"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21412.pdf"
         authors:
           - name: "Frederico Peixoto Antunes"
             institution: "UFPEL"
           - name: "Andre Rauber Du Bois"
             institution: "UFPEL"
       - title: "Kernel Fusion of Parallel Skeletons for GPU using Metaprogramming"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/20445.pdf"
         authors:
           - name: "João Antonio Soares"
             institution: "UFPEL"
@@ -417,7 +425,7 @@ João Vitor Vargas Oliveira <jvvoliveira@inf.ufrgs.br> (UFRGS, Brazil), Cristian
           - name: "Gerson Geraldo H. Cavalheiro"
             institution: "UFPEL"
       - title: "NeanderWeb-V: Uma Abordagem Web Simplificada para o Ensino de Paralelismo e Cache"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21438.pdf"
         authors:
           - name: "João Linares"  
             institution: "UFPEL"
@@ -427,7 +435,7 @@ João Vitor Vargas Oliveira <jvvoliveira@inf.ufrgs.br> (UFRGS, Brazil), Cristian
             institution: "UFPEL"
 
   - id: "F9"
-    title: "Fórum IC/PG 9"
+    title: "Fórum IC/PG 9 - Avaliação de Desempenho e Eficiência Energética"
     date: "08/05"
     start_time: "08:30"
     end_time: "10:00"
@@ -436,14 +444,14 @@ João Vitor Vargas Oliveira <jvvoliveira@inf.ufrgs.br> (UFRGS, Brazil), Cristian
     room: "Sala 2305"
     papers:
       - title: "Avaliação de Desempenho entre Bibliotecas Populares no Reconhecimento Digital de Placas"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21364.pdf"
         authors:
           - name: "Rafael Garay Trindade"
             institution: "UNIPAMPA"
           - name: "Claudio Schepke"
             institution: "UNIPAMPA"
       - title: "Análise de Eficiência Computacional em Sistemas RAG com Busca Vetorial: Um Estudo de Caso no ProbY"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21493.pdf"
         authors:
           - name: "Luis Oliveira"
             institution: "PROBY"
@@ -452,7 +460,7 @@ João Vitor Vargas Oliveira <jvvoliveira@inf.ufrgs.br> (UFRGS, Brazil), Cristian
           - name: "Alex Camargo"
             institution: "PROBY"          
       - title: "Análise da Influência da Interface de Rede no Desempenho de Benchmarks NAS"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21398.pdf"
         authors:
           - name: "Bruno dos Santos"
             institution: "FURG"
@@ -461,7 +469,7 @@ João Vitor Vargas Oliveira <jvvoliveira@inf.ufrgs.br> (UFRGS, Brazil), Cristian
           - name: "Vinicius Garcia Pinto"
             institution: "FURG"
       - title: "Avaliação Energética Sensível ao Regime de Execução em GPU: PyTorch e Pré-processamento Externo em Go/Rust"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21457.pdf"
         authors:
           - name: "Murilo Salem"
             institution: "UFPEL"
@@ -474,7 +482,7 @@ João Vitor Vargas Oliveira <jvvoliveira@inf.ufrgs.br> (UFRGS, Brazil), Cristian
           - name: "Gerson Geraldo H. Cavalheiro"
             institution: "UFPEL"
       - title: "Avaliação da Linguagem Go em Computação de Alto Desempenho por meio dos NAS Parallel Benchmarks"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21468.pdf"
         authors:
           - name: "IGOR SAKUMA"
             institution: "UFPEL"
@@ -482,7 +490,7 @@ João Vitor Vargas Oliveira <jvvoliveira@inf.ufrgs.br> (UFRGS, Brazil), Cristian
             institution: "UFPEL"
  
   - id: "F10"
-    title: "Fórum IC/PG 10"
+    title: "Fórum IC/PG 10 - Algoritmos, Escalonamento e Aplicações Paralelas"
     date: "08/05"
     start_time: "08:30"
     end_time: "10:00"
@@ -491,7 +499,7 @@ João Vitor Vargas Oliveira <jvvoliveira@inf.ufrgs.br> (UFRGS, Brazil), Cristian
     room: "Sala 2306"
     papers:
       - title: "Efeito das Políticas de Escalonamento do Linux na Execução Sustentável de um Modelo de RNN LSTM"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21444.pdf"
         authors:
           - name: "Davi Lopes Lemos"
             institution: "UNIPAMPA"
@@ -500,14 +508,14 @@ João Vitor Vargas Oliveira <jvvoliveira@inf.ufrgs.br> (UFRGS, Brazil), Cristian
           - name: "Leonardo B. Pinho"
             insititution: "UNIPAMPA"
       - title: "Uso de Rede Neural Convolucional na Classificação de Câncer Colorretal"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21130.pdf"
         authors:
           - name: "João Rigo Alves"
             institution: "UNIPAMPA"
           - name: "Sandro da Silva Camargo"
             institution: "UNIPAMPA"
       - title: "Simulador de Sistemas Operacionais PampaSim"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21461.pdf"
         authors:
           - name: "Pedro Souza"
             institution: "UFPEL"
@@ -516,7 +524,7 @@ João Vitor Vargas Oliveira <jvvoliveira@inf.ufrgs.br> (UFRGS, Brazil), Cristian
           - name: "Rafael Burlamaqui Amaral"
             institution: "UFPEL"
       - title: "Oldowan: Ambiente Web Interativo para Simulação do Processador MIPS32"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21328.pdf"
         authors:
           - name: "João Víctor Perez Soares"
             institution: "UFPEL"
@@ -525,7 +533,7 @@ João Vitor Vargas Oliveira <jvvoliveira@inf.ufrgs.br> (UFRGS, Brazil), Cristian
           - name: "Gerson Geraldo H. Cavalheiro"
             institution: "UFPEL"
       - title: "Paralelização de uma Aplicação de Simulação de Escoamento de Fluidos em Plano Inclinado"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21466.pdf"
         authors:
           - name: "Mariana Rodrigues Padilha" 
             institution: "UNIPAMPA"
@@ -533,7 +541,7 @@ João Vitor Vargas Oliveira <jvvoliveira@inf.ufrgs.br> (UFRGS, Brazil), Cristian
             institution: "UNIPAMPA"
             
   - id: "F11"
-    title: "Fórum IC/PG 11"
+    title: "Fórum IC/PG 11 - HPC"
     date: "08/05"
     start_time: "10:30"
     end_time: "12:00"
@@ -542,14 +550,14 @@ João Vitor Vargas Oliveira <jvvoliveira@inf.ufrgs.br> (UFRGS, Brazil), Cristian
     room: "Sala 2305"
     papers:
       - title: "Tendências em Hardware e Estratégias de Otimização para Deep Learning na Borda: Uma Revisão para a Indústria 5.0"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21442.pdf"
         authors:
           - name: "Heduardo Witkoski Barcelos da Rocha"
             institution: "UNIPAMPA"
           - name: "Fábio Ramos"
             institution: "UNIPAMPA"
       - title: "Gerenciamento de Sessões e Persistência de Dados em Terminal Web para o Ensino de Computação"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21437.pdf"
         authors:
           - name: "Gabriel Fischer Muller"
             institution: "UFPEL"
@@ -560,7 +568,7 @@ João Vitor Vargas Oliveira <jvvoliveira@inf.ufrgs.br> (UFRGS, Brazil), Cristian
           - name: "Gerson Geraldo H. Cavalheiro"
             institution: "UFPEL"
       - title: "Análise de Desempenho do Software NNCodec Utilizando Redes Neurais para Processamento de Imagens"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/20462.pdf"
         authors:
           - name: "Sara Vitória Henssler"
             institution: "UNIPAMPA"
@@ -572,7 +580,7 @@ João Vitor Vargas Oliveira <jvvoliveira@inf.ufrgs.br> (UFRGS, Brazil), Cristian
             institution: "UFRGS"
 
   - id: "F12"
-    title: "Fórum IC/PG 12"
+    title: "Fórum IC/PG 12 - Algoritmos, Escalonamento e Aplicações Paralelas"
     date: "08/05"
     start_time: "10:30"
     end_time: "12:00"
@@ -581,7 +589,7 @@ João Vitor Vargas Oliveira <jvvoliveira@inf.ufrgs.br> (UFRGS, Brazil), Cristian
     room: "Sala 2306"
     papers:
       - title: "Processamento de Alto Desempenho em Python: Uma Análise Comparativa de Bibliotecas de Aprendizado de Máquina"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21426.pdf"
         authors:
           - name: "Bernardo Nogueira Rocha"
             institution: "UNIPAMPA"
@@ -594,21 +602,21 @@ João Vitor Vargas Oliveira <jvvoliveira@inf.ufrgs.br> (UFRGS, Brazil), Cristian
           - name: "Claudio Schepke"
             institution: "UNIPAMPA"
       - title: "Avaliação da Performance Paralela do Método dos Conjuntos Análogos Usando KD-Tree e Implementado em Phreads"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21424.pdf"
         authors:
           - name: "Pedro Henrique de Paula Assis"
             institution: "UNIPAMPA"
           - name: "Claudio Schepke"
             institution: "UNIPAMPA"
       - title: "Avaliação de Frameworks de HPC em Python: Uma Análise Comparativa entre NumPy, CuPy, PyTorch e Numba Usando Operações Numéricas Vetorizadas"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21462.pdf"
         authors:
           - name: "Marcos Eduardo Lopes Silva"
             institution: "UNIPAMPA"
           - name: Claudio Schepke"
             institution: "UNIPAMPA"
       - title: "Avaliação de Desempenho de Do Concurrent, OpenMP e MPI em Kernels do NAS Parallel Benchmarks"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21481.pdf"
         authors:
           - name: "Anna Victória Gonçalves Marciano"
             institution: "UNIPAMPA"
@@ -617,7 +625,7 @@ João Vitor Vargas Oliveira <jvvoliveira@inf.ufrgs.br> (UFRGS, Brazil), Cristian
           - name: "Artur dos Santos Antunes"
             institution: "UNIPAMPA"
       - title: "Simulador de Estruturas Periódicas para o Desenvolvimento de Processadores Ópticos"
-        pdf: "pdfs/.pdf"
+        pdf: "pdfs/21407.pdf"
         authors:
           - name: "Rafael Garay Trindade"
             institution: "UNIPAMPA"
