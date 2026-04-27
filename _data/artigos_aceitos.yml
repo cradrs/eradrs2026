@@ -506,7 +506,7 @@ ic-track:
           - name: "Naylor Bastiani Perez"
             institution: "Embrapa Pecuária Sul"
           - name: "Leonardo B. Pinho"
-            insititution: "UNIPAMPA"
+            institution: "UNIPAMPA"
       - title: "Uso de Rede Neural Convolucional na Classificação de Câncer Colorretal"
         pdf: "pdfs/21130.pdf"
         authors:
