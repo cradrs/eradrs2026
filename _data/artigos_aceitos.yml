@@ -507,13 +507,6 @@ ic-track:
             institution: "Embrapa Pecuária Sul"
           - name: "Leonardo B. Pinho"
             institution: "UNIPAMPA"
-      - title: "Uso de Rede Neural Convolucional na Classificação de Câncer Colorretal"
-        pdf: "pdfs/21130.pdf"
-        authors:
-          - name: "João Rigo Alves"
-            institution: "UNIPAMPA"
-          - name: "Sandro da Silva Camargo"
-            institution: "UNIPAMPA"
       - title: "Simulador de Sistemas Operacionais PampaSim"
         pdf: "pdfs/21461.pdf"
         authors:
