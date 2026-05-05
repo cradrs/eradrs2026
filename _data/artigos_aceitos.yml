@@ -441,7 +441,7 @@ ic-track:
     end_time: "10:00"
     chair:
       name: "XXXX"
-    room: "Sala 2305"
+    room: "Auditório"
     papers:
       - title: "Avaliação de Desempenho entre Bibliotecas Populares no Reconhecimento Digital de Placas"
         pdf: "pdfs/21364.pdf"
@@ -540,7 +540,7 @@ ic-track:
     end_time: "12:00"
     chair:
       name: "XXXX"
-    room: "Sala 2305"
+    room: "Auditório"
     papers:
       - title: "Tendências em Hardware e Estratégias de Otimização para Deep Learning na Borda: Uma Revisão para a Indústria 5.0"
         pdf: "pdfs/21442.pdf"
