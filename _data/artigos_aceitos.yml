@@ -5,7 +5,7 @@ ic-track:
     start_time: "14:00"
     end_time: "15:30"
     chair:
-      name: "XXXX"
+      name: "Arthur Francisco Lorenzon"
     room: "Sala 2308"
     papers:
       - title: "-Proposta de Modelo de Programação de Dataflow para Aplicações de Stream Processing em C++"
@@ -58,7 +58,7 @@ ic-track:
     start_time: "14:00"
     end_time: "15:30"
     chair:
-      name: "XXXX"
+      name: "Rodrigo da Rosa Righi"
     room: "Sala 2311"
     papers:
       - title: "Quantifying System-Level Optimizations for Latency and Frame-Time Stability in Real-Time Workloads"
