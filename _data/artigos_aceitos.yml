@@ -115,7 +115,7 @@ ic-track:
     start_time: "08:30"
     end_time: "10:00"
     chair:
-      name: "XXXX"
+      name: "Lucas Mello Schnorr"
     room: "Auditório"
     papers:
       - title: "Desafios e Abordagens para Alocação Dinâmica de Recursos em Sistemas HPC com MPI"
@@ -170,7 +170,7 @@ ic-track:
     start_time: "10:30"
     end_time: "12:00"
     chair:
-      name: "XXXX"
+      name: "Márcio Castro"
     room: "Auditório"
     papers:
       - title: "ViSPAC: Coleta e compressão adaptativas guiadas por risco em monitoramento em um ciclo Edge–Fog–Cloud"
@@ -223,7 +223,7 @@ ic-track:
     start_time: "14:00"
     end_time: "15:30"
     chair:
-      name: "XXXX"
+      name: "Sandro da Silva Camargo"
     room: "Sala 2308"
     papers:
       - title: "Avaliação de Modelos de Linguagem de Grande Escala na Geração Automática de Código Paralelo OpenMP"
@@ -282,7 +282,7 @@ ic-track:
     start_time: "14:00"
     end_time: "15:30"
     chair:
-      name: "XXXX"
+      name: "Matheus da Silva Serpa"
     room: "Sala 2311"
     papers:
       - title: "A Proposal for a Simulation of PCAD Network Topology Using SimGrid"
@@ -333,7 +333,7 @@ ic-track:
     start_time: "16:00"
     end_time: "17:30"
     chair:
-      name: "XXXX"
+      name: "Márcia Pasin"
     room: "Sala 2308"
     papers:
       - title: "Beyond the DAG: Visualizing Scheduling Bottlenecks in Task-Based Applications"
@@ -398,7 +398,7 @@ ic-track:
     start_time: "16:00"
     end_time: "17:30"
     chair:
-      name: "XXXX"
+      name: "Philippe Olivier Alexandre Navaux"
     room: "Sala 2311"
     papers:
       - title: "Traçando um paralelo entre C++ e Rust para programação multithread"
@@ -440,7 +440,7 @@ ic-track:
     start_time: "08:30"
     end_time: "10:00"
     chair:
-      name: "XXXX"
+      name: "Claudio Schepke"
     room: "Auditório"
     papers:
       - title: "Avaliação de Desempenho entre Bibliotecas Populares no Reconhecimento Digital de Placas"
@@ -495,7 +495,7 @@ ic-track:
     start_time: "08:30"
     end_time: "10:00"
     chair:
-      name: "XXXX"
+      name: "Érico Marcelo Hoff do Amaral"
     room: "Sala 2306"
     papers:
       - title: "Efeito das Políticas de Escalonamento do Linux na Execução Sustentável de um Modelo de RNN LSTM"
@@ -539,7 +539,7 @@ ic-track:
     start_time: "10:30"
     end_time: "12:00"
     chair:
-      name: "XXXX"
+      name: "Charles Christian Miers"
     room: "Auditório"
     papers:
       - title: "Tendências em Hardware e Estratégias de Otimização para Deep Learning na Borda: Uma Revisão para a Indústria 5.0"
@@ -578,7 +578,7 @@ ic-track:
     start_time: "10:30"
     end_time: "12:00"
     chair:
-      name: "XXXX"
+      name: "Vinicius Garcia Pinto"
     room: "Sala 2306"
     papers:
       - title: "Processamento de Alto Desempenho em Python: Uma Análise Comparativa de Bibliotecas de Aprendizado de Máquina"
