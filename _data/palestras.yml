@@ -34,7 +34,7 @@ keynotes:
   - id: P4
     date: "07/05 — 18h30 (Auditório)"
     name: "Palestra Industrial"
-    title: "Scherm e a implantação do maior cluster de IA da América Latina na USP, com GPUs NVIDIA Blackwell"
+    title: "Scherm e a implantação do maior cluster de IA da América Latina, com GPUs NVIDIA Blackwell"
     abstract: "Case da implantação do maior cluster NVIDIA Blackwell em uma universidade da América Latina, realizado pela SCHERM na USP."
     speaker:
       name: "Thierry Weissheimer Monteiro"
