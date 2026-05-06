@@ -38,7 +38,7 @@ keynotes:
     abstract: "Case da implantação do maior cluster NVIDIA Blackwell em uma universidade da América Latina, realizado pela SCHERM na USP."
     speaker:
       name: "Thierry Weissheimer Monteiro"
-      bio: " - Cientista da Computação graduado pela Universidade Federal de Santa Maria (UFSM), atua na SCHERM desde 2025 entre engenharia de soluções HPC/AI e pré-vendas técnicas para clientes corporativos, acadêmicos e do setor público.Arquiteto de HPC da SCHERM."
+      bio: "Arquiteto HPC na SCHERM e graduando em Ciência da Computação pela Universidade Federal de Santa Maria (UFSM). Desde 2025, atua em engenharia de soluções de HPC, projetando clusters com GPUs, CPUs, storage paralelo e redes de baixa latência. Conduz deploy e troubleshooting de stacks HPC em produção, com experiência em virtualização Proxmox VE, GPU passthrough, alta disponibilidade e migração de workloads. Anteriormente, atuou como Analista de TI administrando clusters Proxmox em ambientes on-premise críticos. Tem interesse em infraestrutura de alto desempenho, sistemas Linux, redes de baixa latência e tecnologias open source aplicadas a HPC e IA."
       photo: "ThierryMonteiro.jpeg"
 
 
