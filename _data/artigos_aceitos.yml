@@ -8,14 +8,14 @@ ic-track:
       name: "Arthur Francisco Lorenzon"
     room: "Sala 2308"
     papers:
-      - title: "-Proposta de Modelo de Programação de Dataflow para Aplicações de Stream Processing em C++"
+      - title: "Proposta de Modelo de Programação de Dataflow para Aplicações de Stream Processing em C++"
         pdf: "pdfs/21404.pdf"
         authors:
           - name: "Eduardo Martins"
             institution: "PUCRS"
           - name: "Dalvan Griebler"
             institution: "PUCRS"
-      - title: "-Implementação Paralela em GPU para Geração de Fractais de Corais"
+      - title: "Implementação Paralela em GPU para Geração de Fractais de Corais"
         pdf: "pdfs/20554.pdf"
         authors:
           - name: "Matheus Tregnago"
