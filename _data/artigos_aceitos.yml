@@ -441,7 +441,7 @@ ic-track:
     end_time: "10:00"
     chair:
       name: "Claudio Schepke"
-    room: "Auditório"
+    room: "2306"
     papers:
       - title: "Avaliação de Desempenho entre Bibliotecas Populares no Reconhecimento Digital de Placas"
         pdf: "pdfs/21364.pdf"
@@ -496,7 +496,7 @@ ic-track:
     end_time: "10:00"
     chair:
       name: "Érico Marcelo Hoff do Amaral"
-    room: "Sala 2306"
+    room: "Sala 2308"
     papers:
       - title: "Efeito das Políticas de Escalonamento do Linux na Execução Sustentável de um Modelo de RNN LSTM"
         pdf: "pdfs/21444.pdf"
@@ -540,7 +540,7 @@ ic-track:
     end_time: "12:00"
     chair:
       name: "Charles Christian Miers"
-    room: "Auditório"
+    room: "2306"
     papers:
       - title: "Tendências em Hardware e Estratégias de Otimização para Deep Learning na Borda: Uma Revisão para a Indústria 5.0"
         pdf: "pdfs/21442.pdf"
@@ -579,7 +579,7 @@ ic-track:
     end_time: "12:00"
     chair:
       name: "Vinicius Garcia Pinto"
-    room: "Sala 2306"
+    room: "Sala 2308"
     papers:
       - title: "Processamento de Alto Desempenho em Python: Uma Análise Comparativa de Bibliotecas de Aprendizado de Máquina"
         pdf: "pdfs/21426.pdf"
