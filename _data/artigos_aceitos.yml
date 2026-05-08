@@ -606,7 +606,7 @@ ic-track:
         authors:
           - name: "Marcos Eduardo Lopes Silva"
             institution: "UNIPAMPA"
-          - name: Claudio Schepke"
+          - name: "Claudio Schepke"
             institution: "UNIPAMPA"
       - title: "Avaliação de Desempenho de Do Concurrent, OpenMP e MPI em Kernels do NAS Parallel Benchmarks"
         pdf: "pdfs/21481.pdf"
